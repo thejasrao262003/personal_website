@@ -1,5 +1,5 @@
 {
-  "homepage": "https://thejasrao262003.github.io/thejas_portfolio_website/",
+  "homepage": "http://thejasrao262003.github.io/personal_website/",
   "name": "my_portfolio",
   "version": "0.1.0",
   "private": true,
@@ -17,8 +17,8 @@
   "scripts": {
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts --openssl-legacy-provider build",
+    "start": "react-scripts  start",
+    "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
